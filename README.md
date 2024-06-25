@@ -1,0 +1,2 @@
+# HiTec
+Iniciando na tecnologia 
